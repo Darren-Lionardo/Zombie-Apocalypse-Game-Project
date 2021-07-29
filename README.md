@@ -1,7 +1,7 @@
 # Zombie-Apocalypse-Game-Project
 
 Hello There!
-What you're seeing here, is my first ever game since i started learning how to use Unity :)
+What you're seeing here, is my first ever game created since i started learning how to use Unity :)
 
 Our team consisted of 2 artists, 1 audio, and 1 coder. And yes, that 1 coder is me :)
 
